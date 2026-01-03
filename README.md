@@ -1,5 +1,7 @@
 # My Summer/Winter Car Song Converter and Renamer
 A powershell script that levereges Winget and FFmpeg to convert music files into .ogg for My Summer/Winter Car
+This Powershell script is meant to be used with this Steam Guide for My Winter Car: https://steamcommunity.com/sharedfiles/filedetails/?id=3636768489
+Coming soon! A guide in My Summer Car. It will likely be the exact same.
 
 # Purpose
 I love playing MSC and now MWC, however whenever I bought music through 7Digital or rip from a CD, I'll have to open up Audacium, add in all the music I want, convert to .OGG at 48000 Hz sample rate, then rename all of the files to track1.ogg, track2.ogg, etc.
