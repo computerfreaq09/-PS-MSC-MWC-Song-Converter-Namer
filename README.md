@@ -1,4 +1,4 @@
-# -PS-MSC-MWC-Song-Converter-Namer
+# My Summer/Winter Car Song Converter and Renamer
 A powershell script that levereges Winget and FFmpeg to convert music files into .ogg for My Summer/Winter Car
 
 # Purpose
